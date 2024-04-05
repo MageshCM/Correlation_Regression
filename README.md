@@ -21,9 +21,17 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+Developed by : Magesh C M
+
+Register number : 212223220053
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
+# Output 
+
+![image](https://github.com/MageshCM/Correlation_Regression/assets/164765537/18525d86-ae97-4bbf-816d-30accf1c3fab)
+
 # Result
 
-# Output 
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
